@@ -7,6 +7,7 @@
 ### Topics covered: 
 - DOM,
 - Adding event listeners to buttons and key strokes, 
+- Adding animation to website,
 - JavaScript.
   
 ### Status: inactive, complete
